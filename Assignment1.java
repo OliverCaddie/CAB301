@@ -12,15 +12,22 @@ public class Assignment1 {
 	static int count = 0;
 
 	public static void main(String[] args) throws IOException {
-		int numResults = 10;
+		int numResults = 100;
 		int numRepeats = 10;
-		int jumpSize = 10;
+		int jumpSize = 100;
 		StringBuilder results = new StringBuilder();
 		StringBuilder data = new StringBuilder();
 		StringBuilder dataUnordered = new StringBuilder();
 		int n;
 		int[] input;
 		long t1, t2;
+		
+		results.append("n");
+		results.append("\t");
+		results.append("count");
+		results.append("\t");
+		results.append("time");
+		results.append("\n");
 		
 		for (int i = 0; i < numResults; i++) {
 			for (int j = 0; j < numRepeats; j++) {
@@ -50,9 +57,9 @@ public class Assignment1 {
 		}
 		
 		
-		Path dPath = Paths.get("src/cab301/data.xls");
-		Path d2Path = Paths.get("src/cab301/data2.xls");
-		Path rPath = Paths.get("src/cab301/results.xls");
+		Path dPath = Paths.get("src/cab301/data.txt");
+		Path d2Path = Paths.get("src/cab301/dataNoFormat.txt");
+		Path rPath = Paths.get("src/cab301/results.txt");
 		
 		Files.write(dPath, data.toString().getBytes());
 		Files.write(d2Path, dataUnordered.toString().getBytes());
