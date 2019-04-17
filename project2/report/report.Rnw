@@ -1,0 +1,48 @@
+\documentclass{article}
+
+\begin{document}
+
+COVER PAGE
+\pagebreak
+\tableofcontents
+\pagebreak
+
+\section{Description of Algorithms}
+\subsection{Algorithm 1}
+\subsection{Algorithm 2}
+
+\pagebreak
+
+\section{Theoretical Analysis}
+\subsection{Algorithm 1}
+\subsection{Algorithm 2}
+
+\pagebreak
+
+\section{Implementation}
+\subsection{Algorithm 1}
+\subsection{Algorithm 2}
+
+\pagebreak
+
+\section{Methodology}
+
+\pagebreak
+
+\section{Results}
+
+\pagebreak
+
+\section{Analysis}
+
+\pagebreak
+
+\section{Appendix}
+
+
+
+
+
+
+
+\end{document}

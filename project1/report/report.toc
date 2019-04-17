@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Algorithm Description}{2}
+\contentsline {subsection}{\numberline {1.1}Preliminary Overview}{2}
+\contentsline {subsection}{\numberline {1.2}Efficiency Class}{2}
+\contentsline {subsubsection}{\numberline {1.2.1}Inner Loop}{3}
+\contentsline {subsubsection}{\numberline {1.2.2}Outer Loop}{4}
+\contentsline {subsubsection}{\numberline {1.2.3}Final Efficiency Class}{5}
+\contentsline {section}{\numberline {2}Methodology}{6}
+\contentsline {subsection}{\numberline {2.1}Computing Environment}{6}
+\contentsline {subsection}{\numberline {2.2}Algorithm Implementation}{6}
+\contentsline {subsubsection}{\numberline {2.2.1}Implementation Proof}{7}
+\contentsline {subsection}{\numberline {2.3}Experimental Design}{8}
+\contentsline {subsubsection}{\numberline {2.3.1}Algorithm Augmentations}{8}
+\contentsline {subsubsection}{\numberline {2.3.2}Process}{9}
+\contentsline {section}{\numberline {3}Analysis of Results}{11}
+\contentsline {subsection}{\numberline {3.1}Basic Operation Count}{11}
+\contentsline {subsection}{\numberline {3.2}Running Time}{13}
+\contentsline {section}{\numberline {4}Conclusions}{16}
